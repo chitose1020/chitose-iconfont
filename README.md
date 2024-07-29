@@ -1,6 +1,22 @@
-<h1><img src="https://chitose1020.github.io/chitose1020/img/icon.png" height="30px" width="30px" />chitose-iconfont</h1>
-<h2>How to use</h2>
-1,embed this.
+# chitose-iconfont
+## How to use
+### 1,Embed this
 ```
-   <link rel="stylesheet" href="https://chitose1020.github.io/chitose-iconfont/icons/icon.css">
+<link rel="stylesheet" href="https://chitose1020.github.io/chitose-iconfont/icons/icon.css">
 ```
+### 2,Use!
+You can create Element div
+Please assign a class that corresponds to the icon you want to use.
+## Class table
+<table>
+  <thead>
+    <tr>
+      <td>Icon image</td>
+      <td>Class name</td>
+    </tr>
+  </thead>
+  <tr>
+     <td><img alt="" src="img/copy.svg" /></td>
+  </tr>
+ <tr>icon-copy</tr>
+</table>
