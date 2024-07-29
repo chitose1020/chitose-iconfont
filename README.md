@@ -16,7 +16,11 @@ Please assign a class that corresponds to the icon you want to use.
     </tr>
   </thead>
   <tr>
-     <td><img alt="" src="img/copy.svg" /></td>
+     <td><img alt="copy" src="img/copy.svg" /></td>
+     <td>icon-copy</td>
   </tr>
- <tr>icon-copy</tr>
+  <tr>
+    <td><img alt="check" src="img/check.svg"></td>
+    <td>icon-check</td>
+  </tr>
 </table>
